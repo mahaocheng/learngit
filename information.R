@@ -1,4 +1,4 @@
-
+#add something
 #计算信息熵函数
 H_calculate<-function(x)
 {
